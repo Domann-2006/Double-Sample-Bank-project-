@@ -1,0 +1,6 @@
+{
+  "name": "Vault Banking",
+  "description": "A clean, modern single-page banking dashboard application featuring transactions history, analytics, and funds requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
